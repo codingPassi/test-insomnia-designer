@@ -1,0 +1,11 @@
+_id: wrk_5f7c982062224edd9ff8310326d7b7e7
+created: 1590734849834
+description: "This is a sample server Petstore server.  You can find out more
+  about Swagger at [http://swagger.io](http://swagger.io) or on
+  [irc.freenode.net, #swagger](http://swagger.io/irc/).  For this sample, you
+  can use the api key `special-key` to test the authorization filters."
+modified: 1590734919984
+name: Swagger Petstore 1.0.2
+parentId: null
+scope: spec
+type: Workspace

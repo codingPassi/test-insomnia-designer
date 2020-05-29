@@ -1,0 +1,43 @@
+_id: req_wrk_5f7c982062224edd9ff8310326d7b7e774a7a059
+authentication: {}
+body:
+  mimeType: application/json
+  text: |-
+    {
+      "id": 0,
+      "category": {
+        "id": 0,
+        "name": "string"
+      },
+      "name": "doggie",
+      "photoUrls": [
+        "string"
+      ],
+      "tags": [
+        {
+          "id": 0,
+          "name": "string"
+        }
+      ],
+      "status": "string"
+    }
+created: 1590734861041
+description: ""
+headers:
+  - name: Content-Type
+    value: application/json
+isPrivate: false
+metaSortKey: -1590734861041
+method: PUT
+modified: 1590734919976
+name: Update an existing pet
+parameters: []
+parentId: fld_wrk_5f7c982062224edd9ff8310326d7b7e71b034c38
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingFollowRedirects: global
+settingRebuildPath: true
+settingSendCookies: true
+settingStoreCookies: true
+type: Request
+url: "{{ base_url }}/pet"
